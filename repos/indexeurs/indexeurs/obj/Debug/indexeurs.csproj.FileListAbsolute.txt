@@ -1,0 +1,7 @@
+C:\Users\kevin\source\repos\indexeurs\indexeurs\bin\Debug\indexeurs.exe.config
+C:\Users\kevin\source\repos\indexeurs\indexeurs\bin\Debug\indexeurs.exe
+C:\Users\kevin\source\repos\indexeurs\indexeurs\bin\Debug\indexeurs.pdb
+C:\Users\kevin\source\repos\indexeurs\indexeurs\obj\Debug\indexeurs.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\indexeurs\indexeurs\obj\Debug\indexeurs.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\indexeurs\indexeurs\obj\Debug\indexeurs.exe
+C:\Users\kevin\source\repos\indexeurs\indexeurs\obj\Debug\indexeurs.pdb

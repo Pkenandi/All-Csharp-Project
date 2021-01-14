@@ -1,0 +1,7 @@
+C:\Users\kevin\source\repos\examen1\examen1\bin\Debug\examen1.exe.config
+C:\Users\kevin\source\repos\examen1\examen1\bin\Debug\examen1.exe
+C:\Users\kevin\source\repos\examen1\examen1\bin\Debug\examen1.pdb
+C:\Users\kevin\source\repos\examen1\examen1\obj\Debug\examen1.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\examen1\examen1\obj\Debug\examen1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\examen1\examen1\obj\Debug\examen1.exe
+C:\Users\kevin\source\repos\examen1\examen1\obj\Debug\examen1.pdb

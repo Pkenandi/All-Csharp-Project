@@ -1,0 +1,14 @@
+C:\Users\kevin\source\repos\TP1\TP1\bin\Debug\TP1.exe.config
+C:\Users\kevin\source\repos\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\kevin\source\repos\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\kevin\source\repos\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\TP1\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\TP1\TP1\obj\Debug\TP1.exe
+C:\Users\kevin\source\repos\TP1\TP1\obj\Debug\TP1.pdb
+C:\Users\kevin\source\repos\LFI2TP1_BuangaKenandiPrince\TP1\TP1\bin\Debug\TP1.exe.config
+C:\Users\kevin\source\repos\LFI2TP1_BuangaKenandiPrince\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\kevin\source\repos\LFI2TP1_BuangaKenandiPrince\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\kevin\source\repos\LFI2TP1_BuangaKenandiPrince\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\LFI2TP1_BuangaKenandiPrince\TP1\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\LFI2TP1_BuangaKenandiPrince\TP1\TP1\obj\Debug\TP1.exe
+C:\Users\kevin\source\repos\LFI2TP1_BuangaKenandiPrince\TP1\TP1\obj\Debug\TP1.pdb

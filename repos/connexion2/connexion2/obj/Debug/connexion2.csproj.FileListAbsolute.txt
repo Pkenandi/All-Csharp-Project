@@ -1,0 +1,17 @@
+C:\Users\kevin\source\repos\connexion2\connexion2\obj\Debug\connexion2.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\connexion2\connexion2\obj\Debug\connexion.Form1.resources
+C:\Users\kevin\source\repos\connexion2\connexion2\obj\Debug\connexion2.Properties.Resources.resources
+C:\Users\kevin\source\repos\connexion2\connexion2\obj\Debug\connexion2.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\connexion2\connexion2\obj\Debug\connexion2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\connexion2\connexion2\bin\Debug\connexion2.exe.config
+C:\Users\kevin\source\repos\connexion2\connexion2\bin\Debug\connexion2.exe
+C:\Users\kevin\source\repos\connexion2\connexion2\bin\Debug\connexion2.pdb
+C:\Users\kevin\source\repos\connexion2\connexion2\bin\Debug\MySql.Data.dll
+C:\Users\kevin\source\repos\connexion2\connexion2\bin\Debug\Google.Protobuf.dll
+C:\Users\kevin\source\repos\connexion2\connexion2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kevin\source\repos\connexion2\connexion2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kevin\source\repos\connexion2\connexion2\bin\Debug\Renci.SshNet.dll
+C:\Users\kevin\source\repos\connexion2\connexion2\bin\Debug\MySql.Data.xml
+C:\Users\kevin\source\repos\connexion2\connexion2\obj\Debug\connexion2.csproj.CopyComplete
+C:\Users\kevin\source\repos\connexion2\connexion2\obj\Debug\connexion2.exe
+C:\Users\kevin\source\repos\connexion2\connexion2\obj\Debug\connexion2.pdb

@@ -1,0 +1,7 @@
+C:\Users\kevin\source\repos\LesListes\LesListes\obj\Debug\LesListes.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\LesListes\LesListes\obj\Debug\LesListes.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\LesListes\LesListes\bin\Debug\LesListes.exe.config
+C:\Users\kevin\source\repos\LesListes\LesListes\bin\Debug\LesListes.exe
+C:\Users\kevin\source\repos\LesListes\LesListes\bin\Debug\LesListes.pdb
+C:\Users\kevin\source\repos\LesListes\LesListes\obj\Debug\LesListes.exe
+C:\Users\kevin\source\repos\LesListes\LesListes\obj\Debug\LesListes.pdb

@@ -1,0 +1,9 @@
+C:\Users\kevin\source\repos\Accdb\Accdb\bin\Debug\Accdb.exe.config
+C:\Users\kevin\source\repos\Accdb\Accdb\bin\Debug\Accdb.exe
+C:\Users\kevin\source\repos\Accdb\Accdb\bin\Debug\Accdb.pdb
+C:\Users\kevin\source\repos\Accdb\Accdb\obj\Debug\Accdb.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Accdb\Accdb\obj\Debug\Accdb.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Accdb\Accdb\obj\Debug\Accdb.exe
+C:\Users\kevin\source\repos\Accdb\Accdb\obj\Debug\Accdb.pdb
+C:\Users\kevin\source\repos\Accdb\Accdb\bin\Debug\Microsoft.Management.OData.dll
+C:\Users\kevin\source\repos\Accdb\Accdb\obj\Debug\Accdb.csproj.CopyComplete

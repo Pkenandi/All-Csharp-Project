@@ -1,0 +1,14 @@
+C:\Users\kevin\source\repos\Jern\Jern\bin\Debug\Jern.exe.config
+C:\Users\kevin\source\repos\Jern\Jern\bin\Debug\Jern.exe
+C:\Users\kevin\source\repos\Jern\Jern\bin\Debug\Jern.pdb
+C:\Users\kevin\source\repos\Jern\Jern\bin\Debug\MySql.Data.dll
+C:\Users\kevin\source\repos\Jern\Jern\bin\Debug\Google.Protobuf.dll
+C:\Users\kevin\source\repos\Jern\Jern\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kevin\source\repos\Jern\Jern\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kevin\source\repos\Jern\Jern\bin\Debug\Renci.SshNet.dll
+C:\Users\kevin\source\repos\Jern\Jern\bin\Debug\MySql.Data.xml
+C:\Users\kevin\source\repos\Jern\Jern\obj\Debug\Jern.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Jern\Jern\obj\Debug\Jern.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Jern\Jern\obj\Debug\Jern.csproj.CopyComplete
+C:\Users\kevin\source\repos\Jern\Jern\obj\Debug\Jern.exe
+C:\Users\kevin\source\repos\Jern\Jern\obj\Debug\Jern.pdb

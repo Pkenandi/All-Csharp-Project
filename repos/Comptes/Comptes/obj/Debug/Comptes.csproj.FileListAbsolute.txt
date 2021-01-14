@@ -1,0 +1,14 @@
+C:\Users\kevin\source\repos\Comptes\Comptes\bin\Debug\Comptes.exe.config
+C:\Users\kevin\source\repos\Comptes\Comptes\bin\Debug\Comptes.exe
+C:\Users\kevin\source\repos\Comptes\Comptes\bin\Debug\Comptes.pdb
+C:\Users\kevin\source\repos\Comptes\Comptes\bin\Debug\MySql.Data.dll
+C:\Users\kevin\source\repos\Comptes\Comptes\bin\Debug\Google.Protobuf.dll
+C:\Users\kevin\source\repos\Comptes\Comptes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kevin\source\repos\Comptes\Comptes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kevin\source\repos\Comptes\Comptes\bin\Debug\Renci.SshNet.dll
+C:\Users\kevin\source\repos\Comptes\Comptes\bin\Debug\MySql.Data.xml
+C:\Users\kevin\source\repos\Comptes\Comptes\obj\Debug\Comptes.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Comptes\Comptes\obj\Debug\Comptes.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Comptes\Comptes\obj\Debug\Comptes.csproj.CopyComplete
+C:\Users\kevin\source\repos\Comptes\Comptes\obj\Debug\Comptes.exe
+C:\Users\kevin\source\repos\Comptes\Comptes\obj\Debug\Comptes.pdb

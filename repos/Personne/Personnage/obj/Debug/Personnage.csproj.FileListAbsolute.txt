@@ -1,0 +1,14 @@
+C:\Users\kevin\source\repos\Personnage\Personnage\bin\Debug\Personnage.exe.config
+C:\Users\kevin\source\repos\Personnage\Personnage\bin\Debug\Personnage.exe
+C:\Users\kevin\source\repos\Personnage\Personnage\bin\Debug\Personnage.pdb
+C:\Users\kevin\source\repos\Personnage\Personnage\obj\Debug\Personnage.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Personnage\Personnage\obj\Debug\Personnage.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Personnage\Personnage\obj\Debug\Personnage.exe
+C:\Users\kevin\source\repos\Personnage\Personnage\obj\Debug\Personnage.pdb
+C:\Users\kevin\source\repos\Personne\Personnage\bin\Debug\Personnage.exe.config
+C:\Users\kevin\source\repos\Personne\Personnage\bin\Debug\Personnage.exe
+C:\Users\kevin\source\repos\Personne\Personnage\bin\Debug\Personnage.pdb
+C:\Users\kevin\source\repos\Personne\Personnage\obj\Debug\Personnage.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Personne\Personnage\obj\Debug\Personnage.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Personne\Personnage\obj\Debug\Personnage.exe
+C:\Users\kevin\source\repos\Personne\Personnage\obj\Debug\Personnage.pdb

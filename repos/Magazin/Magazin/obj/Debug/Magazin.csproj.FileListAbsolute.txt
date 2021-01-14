@@ -1,0 +1,14 @@
+C:\Users\kevin\source\repos\Magazin\Magazin\bin\Debug\Magazin.exe.config
+C:\Users\kevin\source\repos\Magazin\Magazin\bin\Debug\Magazin.exe
+C:\Users\kevin\source\repos\Magazin\Magazin\bin\Debug\Magazin.pdb
+C:\Users\kevin\source\repos\Magazin\Magazin\bin\Debug\MySql.Data.dll
+C:\Users\kevin\source\repos\Magazin\Magazin\bin\Debug\Google.Protobuf.dll
+C:\Users\kevin\source\repos\Magazin\Magazin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kevin\source\repos\Magazin\Magazin\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kevin\source\repos\Magazin\Magazin\bin\Debug\Renci.SshNet.dll
+C:\Users\kevin\source\repos\Magazin\Magazin\bin\Debug\MySql.Data.xml
+C:\Users\kevin\source\repos\Magazin\Magazin\obj\Debug\Magazin.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Magazin\Magazin\obj\Debug\Magazin.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Magazin\Magazin\obj\Debug\Magazin.csproj.CopyComplete
+C:\Users\kevin\source\repos\Magazin\Magazin\obj\Debug\Magazin.exe
+C:\Users\kevin\source\repos\Magazin\Magazin\obj\Debug\Magazin.pdb

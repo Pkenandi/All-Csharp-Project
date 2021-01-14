@@ -1,0 +1,7 @@
+C:\Users\kevin\source\repos\Gestion stock\Gestion stock\bin\Debug\Gestion stock.exe.config
+C:\Users\kevin\source\repos\Gestion stock\Gestion stock\bin\Debug\Gestion stock.exe
+C:\Users\kevin\source\repos\Gestion stock\Gestion stock\bin\Debug\Gestion stock.pdb
+C:\Users\kevin\source\repos\Gestion stock\Gestion stock\obj\Debug\Gestion stock.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Gestion stock\Gestion stock\obj\Debug\Gestion stock.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Gestion stock\Gestion stock\obj\Debug\Gestion stock.exe
+C:\Users\kevin\source\repos\Gestion stock\Gestion stock\obj\Debug\Gestion stock.pdb

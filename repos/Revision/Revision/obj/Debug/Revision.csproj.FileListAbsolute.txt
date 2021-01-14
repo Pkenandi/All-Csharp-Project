@@ -1,0 +1,14 @@
+C:\Users\kevin\source\repos\Revision\Revision\bin\Debug\Revision.exe.config
+C:\Users\kevin\source\repos\Revision\Revision\bin\Debug\Revision.exe
+C:\Users\kevin\source\repos\Revision\Revision\bin\Debug\Revision.pdb
+C:\Users\kevin\source\repos\Revision\Revision\obj\Debug\Revision.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Revision\Revision\obj\Debug\Revision.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Revision\Revision\obj\Debug\Revision.exe
+C:\Users\kevin\source\repos\Revision\Revision\obj\Debug\Revision.pdb
+C:\Users\kevin\source\repos\Revision\Revision\bin\Debug\MySql.Data.dll
+C:\Users\kevin\source\repos\Revision\Revision\bin\Debug\Google.Protobuf.dll
+C:\Users\kevin\source\repos\Revision\Revision\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kevin\source\repos\Revision\Revision\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kevin\source\repos\Revision\Revision\bin\Debug\Renci.SshNet.dll
+C:\Users\kevin\source\repos\Revision\Revision\bin\Debug\MySql.Data.xml
+C:\Users\kevin\source\repos\Revision\Revision\obj\Debug\Revision.csproj.CopyComplete

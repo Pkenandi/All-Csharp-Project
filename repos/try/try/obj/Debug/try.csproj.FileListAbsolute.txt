@@ -1,0 +1,7 @@
+C:\Users\kevin\source\repos\try\try\bin\Debug\@try.exe.config
+C:\Users\kevin\source\repos\try\try\bin\Debug\@try.exe
+C:\Users\kevin\source\repos\try\try\bin\Debug\@try.pdb
+C:\Users\kevin\source\repos\try\try\obj\Debug\try.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\try\try\obj\Debug\try.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\try\try\obj\Debug\@try.exe
+C:\Users\kevin\source\repos\try\try\obj\Debug\@try.pdb
